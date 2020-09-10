@@ -22,5 +22,6 @@
 //Para agregar todos los archivo
 	git add	.
 //Para subor commit
-	git commit - m "PrimerCommit"		
-
+	git commit -m "PrimerCommit"		
+//Para ver el cambio que se hizo
+	git diff
