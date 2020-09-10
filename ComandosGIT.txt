@@ -1,0 +1,26 @@
+//Para cambiar el email
+	git config --global user.email "acanombre@mail.com"
+
+//Para cambiar el nombre
+	git config --global user.mail "TUnombre"
+
+//Para ver el nombre y el email
+	git config --global -l
+
+//Para ver la configuracion del GIT
+	git config --list
+
+	######Iniciar GIT
+
+//Inicializar GIT
+	git init	
+
+//Para ver los estados de los archivos
+	git status
+//Para agregar un archivo
+	git add	
+//Para agregar todos los archivo
+	git add	.
+//Para subor commit
+	git commit - m "PrimerCommit"		
+
