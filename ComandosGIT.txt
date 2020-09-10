@@ -21,7 +21,13 @@
 	git add	
 //Para agregar todos los archivo
 	git add	.
-//Para subor commit
+//Para subir commit
 	git commit -m "PrimerCommit"		
 //Para ver el cambio que se hizo
 	git diff
+
+//Para volver al ultimo commit
+	git checkout .
+//Para ver los commit y cambios
+	git log
+
